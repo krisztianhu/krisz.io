@@ -1,0 +1,19 @@
+Clone and use a GitHub repository in Visual Studio Code
+#####################################################################
+
+1. Open an integrated terminal from Terminal -> New Terminal (Ctrl + Shift + ö).
+
+2. Clone your repo with the following git command:
+
+git clone https://github.com/YOUR-NAME-OR-ORGANIZATION/YOUR-REPO-NAME
+
+
+3. Change your terminal into that new subdirectory:
+
+cd YOUR-REPO-NAME
+
+You can chech what files do you have with dir command:
+
+4. Then open in Visual Studio Code:
+
+code .
